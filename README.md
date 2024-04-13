@@ -1,1 +1,2 @@
-#this is place to learn aboout the GitHub
+#this is place to learn aboout the Git and GitHub
+
